@@ -1,6 +1,6 @@
 # e-wallet
-Assignment 15/3 2021
-
+Old assignment from 15/3 2021<br>
+Just deployed it at Heroku: https://e-wallet-jensen.herokuapp.com/#/
 
 ## Project setup
 ```
